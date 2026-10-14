@@ -1,0 +1,19 @@
+# Fichiers générés par MiniZinc
+*.ozn
+*.fzn
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.venv/
+venv/
+
+# Informations sensibles
+.env
+.env.*
+!.env.example
